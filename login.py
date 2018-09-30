@@ -8,3 +8,5 @@ def login():
 a = 1
 
 d = 6
+
+c = 7
